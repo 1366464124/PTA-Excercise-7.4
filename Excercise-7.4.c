@@ -4,7 +4,7 @@ int main()
 	int n, m, a[20], b[20];
 	int temp, k, j, i;
 
-	scanf_s("%d %d", &n,&a[0]);
+	scanf_s("%d %d", &n, &a[0]);
 	for (i = 1; i < n; i++) {
 		scanf_s("%d", &temp);
 		k = 0;
